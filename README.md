@@ -30,5 +30,5 @@ Lastly, I created a legend that will provide context for your map data.
 
 
 ## Acknowledgments
-Crowdfunding_ETL was created as an assignment for the University of California, Irvine Data Analytics Bootcamp - June 2024 Cohort under the instruction and guidance of Melissa Engle (Instructor) and Mitchell Stone (TA).
+leaflet-challenge was created as an assignment for the University of California, Irvine Data Analytics Bootcamp - June 2024 Cohort under the instruction and guidance of Melissa Engle (Instructor) and Mitchell Stone (TA).
 The practical exercises and coding examples demonstrated through the bootcamp helped inform and inspire the code for this project.
